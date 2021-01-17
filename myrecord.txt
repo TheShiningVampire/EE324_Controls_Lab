@@ -1,0 +1,61 @@
+ ans  =
+
+   1.
+
+
+--> 5.28%i
+5.28%i
+^~~~~~^
+Error: syntax error, unexpected identifier, expecting end of file
+
+--> 5.28*%i
+ ans  =
+
+   5.28i 
+
+
+-->  %pi , %eps
+ %pi  = 
+
+   3.1415927
+
+ %eps  = 
+
+   2.220D-16
+
+
+--> %e
+ %e  = 
+
+   2.7182818
+
+
+--> exp(1)
+ ans  =
+
+   2.7182818
+
+
+--> clc
+
+--> log10(-1)
+ ans  =
+
+   1.3643764i 
+
+
+--> exp(ans)
+ ans  =
+
+   0.2049572 + 0.9787709i
+
+
+--> mod(ans)
+
+Undefined variable: mod
+
+--> modulus(ans)
+
+Undefined variable: modulus
+
+--> diary(0)
